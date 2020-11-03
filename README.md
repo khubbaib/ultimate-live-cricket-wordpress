@@ -20,11 +20,11 @@ Live Cricket score WordPress is the ideal Plugin for developing Cricket niche We
 
 **Installation Video Guide**
 
-[youtube http://www.youtube.com/watch?v=k-X-eWTAA_g]
+[http://www.youtube.com/watch?v=k-X-eWTAA_g]
 
 **Change the colors of Live Cricket score Plugin and add matches to post ,page**
 
-[youtube http://www.youtube.com/watch?v=LfX6RcPKz8U]
+[http://www.youtube.com/watch?v=LfX6RcPKz8U]
 
 **Features:**
 
@@ -106,7 +106,7 @@ Live Cricket score WordPress is the ideal Plugin for developing Cricket niche We
 
 This section describes how to install the plugin and get it working.
 
-[youtube http://www.youtube.com/watch?v=k-X-eWTAA_g]
+[http://www.youtube.com/watch?v=k-X-eWTAA_g]
 
 = 1) Install =
 
